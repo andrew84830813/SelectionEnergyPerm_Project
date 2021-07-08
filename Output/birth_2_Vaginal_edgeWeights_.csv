@@ -1,0 +1,7 @@
+Source,Target,Weight,taxa,Status,n,lb,ub,log_ratio,edgeweight,edgeweightCol
+Bacteroidaceae.Bacteroides,Ruminococcaceae.Anaerotruncus,0.47998985936513117,Bacteroidaceae.Bacteroides / Ruminococcaceae.Anaerotruncus,Vaginal,28,0.3021991274053106,0.6577805913249517,0.47998985936513117,0.47998985936513117,pos
+Bacteroidaceae.Bacteroides,Enterobacteriaceae.Proteus,0.46248886631415936,Bacteroidaceae.Bacteroides / Enterobacteriaceae.Proteus,Vaginal,28,0.27859373294861445,0.6063999984771132,0.44249686571286384,0.44249686571286384,pos
+Bacteroidaceae.Bacteroides,Erysipelotrichaceae.Clostridium,0.44249686571286384,Bacteroidaceae.Bacteroides / Erysipelotrichaceae.Clostridium,Vaginal,28,0.2713045215628239,0.5905339639957919,0.43091924277930793,0.43091924277930793,pos
+Alcaligenaceae.Sutterella,Lachnospiraceae.Anaerostipes,0.43091924277930793,Alcaligenaceae.Sutterella / Lachnospiraceae.Anaerostipes,Vaginal,28,0.2911805928976745,0.6337971397306442,0.46248886631415936,0.46248886631415936,pos
+Enterobacteriaceae.Proteus,Rikenellaceae.,0.4902786564008405,Enterobacteriaceae.Proteus / Rikenellaceae.,Vaginal,28,-0.31185709803248207,-0.6788025766784019,-0.495329837355442,0.495329837355442,neg
+Clostridiaceae.,Rikenellaceae.,0.495329837355442,Clostridiaceae. / Rikenellaceae.,Vaginal,28,-0.30867690068650916,-0.6718804121151718,-0.4902786564008405,0.4902786564008405,neg

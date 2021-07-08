@@ -1,0 +1,27 @@
+Source,Target,Weight,Status,taxa,n,lb,ub,log_ratio,edgeweight,edgeweightCol
+Parabacteroides_distasonis,Sutterella_wadsworthensis,3.124593707952654,FA,Parabacteroides_distasonis / Sutterella_wadsworthensis,50,2.258500519408967,3.9906868964963405,3.124593707952654,3.124593707952654,pos
+Parabacteroides_distasonis,Streptococcus_parasanguinis,2.3728021995500592,FA,Bifidobacterium_bifidum / Parabacteroides_merdae,50,1.7150949854693078,3.030509413630811,2.3728021995500592,2.3728021995500592,pos
+Bifidobacterium_bifidum,Parabacteroides_merdae,2.2447754936382722,FA,Bifidobacterium_bifidum / Clostridium_ramosum,50,1.6225554719114155,2.866995515365129,2.2447754936382722,2.2447754936382722,pos
+Bifidobacterium_bifidum,Clostridium_ramosum,2.127978346818343,FA,Clostridium_ramosum / Granulicatella_unclassified,50,1.5381328424710146,2.7178238511656714,2.127978346818343,2.127978346818343,pos
+Bifidobacterium_bifidum,Klebsiella_pneumoniae,2.0342843023211197,FA,Clostridium_ramosum / Rothia_mucilaginosa,50,1.4704094621083372,2.598159142533902,2.0342843023211197,2.0342843023211197,pos
+Bifidobacterium_bifidum,Klebsiella_oxytoca,1.7707058880348694,FA,Clostridium_ramosum / Roseburia_unclassified,50,1.279891256795639,2.2615205192740997,1.7707058880348694,1.7707058880348694,pos
+Bifidobacterium_bifidum,Bifidobacterium_breve,1.7694656104201283,FA,Clostridium_ramosum / Lactobacillus_phage_Lc_Nu,50,1.2789947665959776,2.2599364542442792,1.7694656104201283,1.7694656104201283,pos
+Bifidobacterium_bifidum,Bifidobacterium_longum,1.7335615737954035,FA,Clostridium_ramosum / Streptococcus_peroris,50,1.2530428211768234,2.2140803264139834,1.7335615737954035,1.7335615737954035,pos
+Clostridium_ramosum,Granulicatella_unclassified,1.2134379527381722,FA,Clostridium_ramosum / Human_endogenous_retrovirus_K,50,0.8770901124055013,1.5497857930708432,1.2134379527381722,1.2134379527381722,pos
+Clostridium_ramosum,Rothia_mucilaginosa,1.0003629760416142,FA,Bifidobacterium_bifidum / Klebsiella_pneumoniae,50,0.7230765059908776,1.2776494460923509,1.0003629760416142,1.0003629760416142,pos
+Clostridium_ramosum,Roseburia_unclassified,0.9850723571558345,FA,Parabacteroides_distasonis / Streptococcus_parasanguinis,50,0.7120242304237461,1.258120483887923,0.9850723571558345,0.9850723571558345,pos
+Clostridium_ramosum,Lactobacillus_phage_Lc_Nu,0.7454935028755133,FA,Bifidobacterium_bifidum / Klebsiella_oxytoca,50,0.5388532464797082,0.9521337592713184,0.7454935028755133,0.7454935028755133,pos
+Clostridium_ramosum,Streptococcus_peroris,0.7488803545027234,FA,Clostridium_ramosum / Streptococcus_parasanguinis,50,-0.541301310731949,-0.9564593982734978,-0.7488803545027234,0.7488803545027234,neg
+Clostridium_ramosum,Human_endogenous_retrovirus_K,0.806832954698796,FA,Bacteroides_ovatus / Bifidobacterium_bifidum,50,-0.5831902697062955,-1.0304756396912964,-0.806832954698796,0.806832954698796,neg
+Clostridium_ramosum,Streptococcus_parasanguinis,0.8461062897689012,FA,Bacteroides_uniformis / Bacteroides_vulgatus,50,-0.6115775916896307,-1.0806349878481718,-0.8461062897689012,0.8461062897689012,neg
+Clostridium_ramosum,Escherichia_coli,0.9971579012911377,FA,Bifidobacterium_dentium / Clostridium_ramosum,50,-0.7207598326357876,-1.2735559699464878,-0.9971579012911377,0.9971579012911377,neg
+Bacteroides_ovatus,Bifidobacterium_bifidum,1.0653905590550088,FA,Bacteroides_caccae / Clostridium_ramosum,50,-0.7700793625983988,-1.3607017555116188,-1.0653905590550088,1.0653905590550088,neg
+Bacteroides_uniformis,Bacteroides_vulgatus,1.7253993667373044,FA,Clostridium_perfringens / Streptococcus_parasanguinis,50,-1.2471430624871347,-2.203655670987474,-1.7253993667373044,1.7253993667373044,neg
+Bifidobacterium_dentium,Clostridium_ramosum,1.9354129281148533,FA,Citrobacter_unclassified / Streptococcus_parasanguinis,50,-1.3989438346153324,-2.471882021614374,-1.9354129281148533,1.9354129281148533,neg
+Bacteroides_caccae,Clostridium_ramosum,1.9970177738401915,FA,Bifidobacterium_bifidum / Bifidobacterium_breve,50,-1.4434726883074662,-2.550562859372917,-1.9970177738401915,1.9970177738401915,neg
+Clostridium_perfringens,Streptococcus_parasanguinis,2.052872265155597,FA,Alistipes_unclassified / Clostridium_ramosum,50,-1.4838451045118832,-2.6218994257993105,-2.052872265155597,2.052872265155597,neg
+Citrobacter_unclassified,Streptococcus_parasanguinis,2.1685102567530485,FA,Enterobacter_cloacae / Klebsiella_pneumoniae,50,-1.567429880164965,-2.769590633341132,-2.1685102567530485,2.1685102567530485,neg
+Alistipes_unclassified,Clostridium_ramosum,2.2297358299324124,FA,Bacteroides_massiliensis / Clostridium_ramosum,50,-1.6116845902972816,-2.847787069567543,-2.2297358299324124,2.2297358299324124,neg
+Enterobacter_cloacae,Klebsiella_pneumoniae,3.0999912091480493,FA,Bacteroides_thetaiotaomicron / Bifidobacterium_bifidum,50,-2.2407174853499994,-3.959264932946099,-3.0999912091480493,3.0999912091480493,neg
+Bacteroides_massiliensis,Clostridium_ramosum,5.97923581211055,FA,Bifidobacterium_bifidum / Bifidobacterium_longum,50,-4.321876202000276,-7.636595422220825,-5.97923581211055,5.97923581211055,neg
+Bacteroides_thetaiotaomicron,Bifidobacterium_bifidum,7.2301609804971685,FA,Clostridium_ramosum / Escherichia_coli,50,-5.226062604012238,-9.234259356982099,-7.2301609804971685,7.2301609804971685,neg

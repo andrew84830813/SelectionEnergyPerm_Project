@@ -1,0 +1,7 @@
+Source,Target,Weight,taxa,Status,n,lb,ub,log_ratio,edgeweight,edgeweightCol
+Enterobacteriaceae.Proteus,Rikenellaceae.,0.6030102367805381,Enterobacteriaceae.Proteus / Rikenellaceae.,Cesarean,23,0.3565670374428229,0.8494534361182533,0.6030102367805381,0.6030102367805381,pos
+Clostridiaceae.,Rikenellaceae.,0.5968609730097189,Clostridiaceae. / Rikenellaceae.,Cesarean,23,0.35293090553083106,0.8407910404886066,0.5968609730097189,0.5968609730097189,pos
+Bacteroidaceae.Bacteroides,Enterobacteriaceae.Proteus,0.5245973390356792,Bacteroidaceae.Bacteroides / Enterobacteriaceae.Proteus,Cesarean,23,-0.3185348117273822,-0.7588488613126344,-0.5386918365200083,0.5386918365200083,neg
+Bacteroidaceae.Bacteroides,Erysipelotrichaceae.Clostridium,0.5386918365200083,Bacteroidaceae.Bacteroides / Erysipelotrichaceae.Clostridium,Cesarean,23,-0.31020056977642574,-0.7389941082949326,-0.5245973390356792,0.5245973390356792,neg
+Bacteroidaceae.Bacteroides,Ruminococcaceae.Anaerotruncus,0.5630299242085419,Bacteroidaceae.Bacteroides / Ruminococcaceae.Anaerotruncus,Cesarean,23,-0.34552443493043244,-0.8231465270020613,-0.5843354809662469,0.5843354809662469,neg
+Alcaligenaceae.Sutterella,Lachnospiraceae.Anaerostipes,0.5843354809662469,Alcaligenaceae.Sutterella / Lachnospiraceae.Anaerostipes,Cesarean,23,-0.33292620891237296,-0.7931336395047108,-0.5630299242085419,0.5630299242085419,neg

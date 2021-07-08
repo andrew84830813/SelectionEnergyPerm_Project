@@ -1,0 +1,1105 @@
+Sample ID,Source/Sample Type,Property,Value,Type,Filter
+MBSMPL0020-16-1,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-1,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-1,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-1,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-1,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-1,host organism,Sex,Female,string,membership
+MBSMPL0020-16-1,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-1,sample from organism,Age at sample collection (months),2,number,range
+MBSMPL0020-16-1,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-1,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-1,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-1,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-10,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-10,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-10,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-10,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-10,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-10,host organism,Sex,Female,string,membership
+MBSMPL0020-16-10,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-10,sample from organism,Age at sample collection (months),2.8,number,range
+MBSMPL0020-16-10,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-10,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-10,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-10,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-100,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-100,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-100,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-100,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-100,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-100,host organism,Sex,Female,string,membership
+MBSMPL0020-16-100,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-100,sample from organism,Age at sample collection (months),2.8,number,range
+MBSMPL0020-16-100,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-100,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-100,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-100,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-11,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-11,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-11,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-11,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-11,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-11,host organism,Sex,Female,string,membership
+MBSMPL0020-16-11,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-11,sample from organism,Age at sample collection (months),1.9,number,range
+MBSMPL0020-16-11,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-11,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-11,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-11,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-12,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-12,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-12,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-12,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-12,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-12,host organism,Sex,Female,string,membership
+MBSMPL0020-16-12,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-12,sample from organism,Age at sample collection (months),2.7,number,range
+MBSMPL0020-16-12,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-12,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-12,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-12,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-13,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-13,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-13,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-13,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-13,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-13,host organism,Sex,Female,string,membership
+MBSMPL0020-16-13,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-13,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-13,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-13,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-13,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-13,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-14,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-14,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-14,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-14,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-14,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-14,host organism,Sex,Female,string,membership
+MBSMPL0020-16-14,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-14,sample from organism,Age at sample collection (months),2.1,number,range
+MBSMPL0020-16-14,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-14,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-14,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-14,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-15,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-15,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-15,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-15,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-15,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-15,host organism,Sex,Female,string,membership
+MBSMPL0020-16-15,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-15,sample from organism,Age at sample collection (months),1.6,number,range
+MBSMPL0020-16-15,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-15,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-15,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-15,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-16,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-16,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-16,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-16,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-16,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-16,host organism,Sex,Male,string,membership
+MBSMPL0020-16-16,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-16,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-16,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-16,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-16,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-16,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-17,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-17,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-17,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-17,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-17,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-17,host organism,Sex,Male,string,membership
+MBSMPL0020-16-17,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-17,sample from organism,Age at sample collection (months),1.4,number,range
+MBSMPL0020-16-17,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-17,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-17,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-17,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-18,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-18,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-18,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-18,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-18,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-18,host organism,Sex,Female,string,membership
+MBSMPL0020-16-18,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-18,sample from organism,Age at sample collection (months),2.6,number,range
+MBSMPL0020-16-18,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-18,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-18,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-18,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-19,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-19,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-19,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-19,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-19,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-19,host organism,Sex,Male,string,membership
+MBSMPL0020-16-19,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-19,sample from organism,Age at sample collection (months),0.9,number,range
+MBSMPL0020-16-19,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-19,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-19,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-19,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-2,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-2,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-2,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-2,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-2,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-2,host organism,Sex,Male,string,membership
+MBSMPL0020-16-2,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-2,sample from organism,Age at sample collection (months),1.7,number,range
+MBSMPL0020-16-2,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-2,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-2,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-2,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-20,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-20,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-20,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-20,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-20,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-20,host organism,Sex,Female,string,membership
+MBSMPL0020-16-20,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-20,sample from organism,Age at sample collection (months),3,number,range
+MBSMPL0020-16-20,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-20,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-20,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-20,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-21,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-21,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-21,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-21,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-21,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-21,host organism,Sex,Female,string,membership
+MBSMPL0020-16-21,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-21,sample from organism,Age at sample collection (months),2.3,number,range
+MBSMPL0020-16-21,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-21,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-21,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-21,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-22,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-22,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-22,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-22,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-22,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-22,host organism,Sex,Male,string,membership
+MBSMPL0020-16-22,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-22,sample from organism,Age at sample collection (months),1.3,number,range
+MBSMPL0020-16-22,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-22,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-22,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-22,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-23,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-23,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-23,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-23,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-23,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-23,host organism,Sex,Male,string,membership
+MBSMPL0020-16-23,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-23,sample from organism,Age at sample collection (months),2.5,number,range
+MBSMPL0020-16-23,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-23,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-23,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-23,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-24,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-24,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-24,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-24,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-24,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-24,host organism,Sex,Female,string,membership
+MBSMPL0020-16-24,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-24,sample from organism,Age at sample collection (months),2.2,number,range
+MBSMPL0020-16-24,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-24,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-24,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-24,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-25,host organism,"City, village, or region",Western Uganda,string,membership
+MBSMPL0020-16-25,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-25,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-25,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-25,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-25,host organism,Sex,Male,string,membership
+MBSMPL0020-16-25,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-25,sample from organism,Age at sample collection (months),2.9,number,range
+MBSMPL0020-16-25,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-25,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-25,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-25,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-26,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-26,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-26,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-26,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-26,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-26,host organism,Sex,Female,string,membership
+MBSMPL0020-16-26,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-26,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-26,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-26,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-26,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-26,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-27,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-27,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-27,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-27,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-27,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-27,host organism,Sex,Female,string,membership
+MBSMPL0020-16-27,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-27,sample from organism,Age at sample collection (months),1.6,number,range
+MBSMPL0020-16-27,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-27,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-27,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-27,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-28,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-28,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-28,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-28,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-28,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-28,host organism,Sex,Male,string,membership
+MBSMPL0020-16-28,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-28,sample from organism,Age at sample collection (months),0.5,number,range
+MBSMPL0020-16-28,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-28,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-28,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-28,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-29,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-29,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-29,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-29,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-29,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-29,host organism,Sex,Male,string,membership
+MBSMPL0020-16-29,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-29,sample from organism,Age at sample collection (months),1.3,number,range
+MBSMPL0020-16-29,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-29,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-29,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-29,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-3,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-3,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-3,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-3,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-3,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-3,host organism,Sex,Female,string,membership
+MBSMPL0020-16-3,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-3,sample from organism,Age at sample collection (months),0.2,number,range
+MBSMPL0020-16-3,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-3,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-3,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-3,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-30,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-30,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-30,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-30,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-30,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-30,host organism,Sex,Male,string,membership
+MBSMPL0020-16-30,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-30,sample from organism,Age at sample collection (months),2.9,number,range
+MBSMPL0020-16-30,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-30,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-30,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-30,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-31,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-31,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-31,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-31,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-31,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-31,host organism,Sex,Male,string,membership
+MBSMPL0020-16-31,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-31,sample from organism,Age at sample collection (months),0.8,number,range
+MBSMPL0020-16-31,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-31,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-31,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-31,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-32,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-32,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-32,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-32,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-32,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-32,host organism,Sex,Female,string,membership
+MBSMPL0020-16-32,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-32,sample from organism,Age at sample collection (months),2.1,number,range
+MBSMPL0020-16-32,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-32,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-32,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-32,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-33,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-33,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-33,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-33,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-33,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-33,host organism,Sex,Male,string,membership
+MBSMPL0020-16-33,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-33,sample from organism,Age at sample collection (months),1.9,number,range
+MBSMPL0020-16-33,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-33,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-33,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-33,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-34,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-34,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-34,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-34,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-34,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-34,host organism,Sex,Male,string,membership
+MBSMPL0020-16-34,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-34,sample from organism,Age at sample collection (months),1.2,number,range
+MBSMPL0020-16-34,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-34,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-34,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-34,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-35,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-35,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-35,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-35,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-35,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-35,host organism,Sex,Male,string,membership
+MBSMPL0020-16-35,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-35,sample from organism,Age at sample collection (months),1.6,number,range
+MBSMPL0020-16-35,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-35,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-35,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-35,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-36,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-36,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-36,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-36,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-36,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-36,host organism,Sex,Male,string,membership
+MBSMPL0020-16-36,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-36,sample from organism,Age at sample collection (months),0.4,number,range
+MBSMPL0020-16-36,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-36,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-36,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-36,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-37,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-37,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-37,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-37,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-37,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-37,host organism,Sex,Male,string,membership
+MBSMPL0020-16-37,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-37,sample from organism,Age at sample collection (months),2.6,number,range
+MBSMPL0020-16-37,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-37,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-37,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-37,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-38,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-38,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-38,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-38,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-38,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-38,host organism,Sex,Female,string,membership
+MBSMPL0020-16-38,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-38,sample from organism,Age at sample collection (months),1.4,number,range
+MBSMPL0020-16-38,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-38,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-38,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-38,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-39,host organism,"City, village, or region",Western Uganda,string,membership
+MBSMPL0020-16-39,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-39,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-39,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-39,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-39,host organism,Sex,Male,string,membership
+MBSMPL0020-16-39,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-39,sample from organism,Age at sample collection (months),0.3,number,range
+MBSMPL0020-16-39,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-39,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-39,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-39,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-4,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-4,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-4,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-4,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-4,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-4,host organism,Sex,Male,string,membership
+MBSMPL0020-16-4,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-4,sample from organism,Age at sample collection (months),2.6,number,range
+MBSMPL0020-16-4,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-4,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-4,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-4,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-40,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-40,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-40,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-40,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-40,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-40,host organism,Sex,Male,string,membership
+MBSMPL0020-16-40,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-40,sample from organism,Age at sample collection (months),1.3,number,range
+MBSMPL0020-16-40,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-40,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-40,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-40,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-41,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-41,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-41,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-41,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-41,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-41,host organism,Sex,Male,string,membership
+MBSMPL0020-16-41,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-41,sample from organism,Age at sample collection (months),2,number,range
+MBSMPL0020-16-41,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-41,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-41,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-41,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-42,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-42,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-42,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-42,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-42,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-42,host organism,Sex,Female,string,membership
+MBSMPL0020-16-42,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-42,sample from organism,Age at sample collection (months),0.2,number,range
+MBSMPL0020-16-42,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-42,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-42,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-42,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-43,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-43,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-43,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-43,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-43,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-43,host organism,Sex,Male,string,membership
+MBSMPL0020-16-43,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-43,sample from organism,Age at sample collection (months),1.9,number,range
+MBSMPL0020-16-43,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-43,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-43,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-43,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-44,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-44,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-44,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-44,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-44,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-44,host organism,Sex,Female,string,membership
+MBSMPL0020-16-44,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-44,sample from organism,Age at sample collection (months),1.3,number,range
+MBSMPL0020-16-44,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-44,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-44,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-44,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-45,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-45,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-45,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-45,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-45,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-45,host organism,Sex,Female,string,membership
+MBSMPL0020-16-45,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-45,sample from organism,Age at sample collection (months),1.5,number,range
+MBSMPL0020-16-45,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-45,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-45,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-45,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-46,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-46,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-46,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-46,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-46,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-46,host organism,Sex,Female,string,membership
+MBSMPL0020-16-46,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-46,sample from organism,Age at sample collection (months),3.4,number,range
+MBSMPL0020-16-46,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-46,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-46,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-46,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-47,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-47,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-47,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-47,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-47,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-47,host organism,Sex,Female,string,membership
+MBSMPL0020-16-47,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-47,sample from organism,Age at sample collection (months),1.8,number,range
+MBSMPL0020-16-47,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-47,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-47,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-47,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-48,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-48,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-48,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-48,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-48,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-48,host organism,Sex,Female,string,membership
+MBSMPL0020-16-48,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-48,sample from organism,Age at sample collection (months),1.6,number,range
+MBSMPL0020-16-48,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-48,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-48,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-48,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-49,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-49,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-49,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-49,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-49,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-49,host organism,Sex,Female,string,membership
+MBSMPL0020-16-49,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-49,sample from organism,Age at sample collection (months),2.2,number,range
+MBSMPL0020-16-49,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-49,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-49,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-49,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-5,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-5,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-5,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-5,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-5,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-5,host organism,Sex,Female,string,membership
+MBSMPL0020-16-5,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-5,sample from organism,Age at sample collection (months),0.8,number,range
+MBSMPL0020-16-5,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-5,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-5,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-5,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-50,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-50,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-50,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-50,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-50,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-50,host organism,Sex,Male,string,membership
+MBSMPL0020-16-50,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-50,sample from organism,Age at sample collection (months),2,number,range
+MBSMPL0020-16-50,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-50,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-50,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-50,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-51,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-51,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-51,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-51,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-51,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-51,host organism,Sex,Male,string,membership
+MBSMPL0020-16-51,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-51,sample from organism,Age at sample collection (months),2.6,number,range
+MBSMPL0020-16-51,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-51,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-51,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-51,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-54,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-54,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-54,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-54,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-54,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-54,host organism,Sex,Male,string,membership
+MBSMPL0020-16-54,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-54,sample from organism,Age at sample collection (months),1.8,number,range
+MBSMPL0020-16-54,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-54,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-54,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-54,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-55,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-55,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-55,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-55,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-55,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-55,host organism,Sex,Male,string,membership
+MBSMPL0020-16-55,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-55,sample from organism,Age at sample collection (months),0.9,number,range
+MBSMPL0020-16-55,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-55,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-55,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-55,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-57,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-57,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-57,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-57,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-57,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-57,host organism,Sex,Female,string,membership
+MBSMPL0020-16-57,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-57,sample from organism,Age at sample collection (months),0.4,number,range
+MBSMPL0020-16-57,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-57,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-57,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-57,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-58,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-58,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-58,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-58,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-58,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-58,host organism,Sex,Male,string,membership
+MBSMPL0020-16-58,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-58,sample from organism,Age at sample collection (months),2,number,range
+MBSMPL0020-16-58,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-58,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-58,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-58,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-59,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-59,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-59,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-59,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-59,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-59,host organism,Sex,Male,string,membership
+MBSMPL0020-16-59,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-59,sample from organism,Age at sample collection (months),2.9,number,range
+MBSMPL0020-16-59,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-59,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-59,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-59,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-6,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-6,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-6,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-6,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-6,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-6,host organism,Sex,Male,string,membership
+MBSMPL0020-16-6,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-6,sample from organism,Age at sample collection (months),2.1,number,range
+MBSMPL0020-16-6,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-6,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-6,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-6,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-61,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-61,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-61,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-61,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-61,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-61,host organism,Sex,Male,string,membership
+MBSMPL0020-16-61,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-61,sample from organism,Age at sample collection (months),2.3,number,range
+MBSMPL0020-16-61,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-61,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-61,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-61,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-62,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-62,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-62,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-62,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-62,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-62,host organism,Sex,Female,string,membership
+MBSMPL0020-16-62,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-62,sample from organism,Age at sample collection (months),0.7,number,range
+MBSMPL0020-16-62,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-62,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-62,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-62,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-63,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-63,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-63,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-63,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-63,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-63,host organism,Sex,Male,string,membership
+MBSMPL0020-16-63,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-63,sample from organism,Age at sample collection (months),3,number,range
+MBSMPL0020-16-63,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-63,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-63,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-63,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-64,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-64,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-64,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-64,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-64,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-64,host organism,Sex,Female,string,membership
+MBSMPL0020-16-64,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-64,sample from organism,Age at sample collection (months),2.1,number,range
+MBSMPL0020-16-64,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-64,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-64,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-64,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-65,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-65,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-65,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-65,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-65,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-65,host organism,Sex,Male,string,membership
+MBSMPL0020-16-65,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-65,sample from organism,Age at sample collection (months),2.5,number,range
+MBSMPL0020-16-65,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-65,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-65,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-65,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-66,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-66,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-66,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-66,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-66,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-66,host organism,Sex,Female,string,membership
+MBSMPL0020-16-66,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-66,sample from organism,Age at sample collection (months),2.3,number,range
+MBSMPL0020-16-66,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-66,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-66,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-66,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-67,host organism,"City, village, or region",Western Uganda,string,membership
+MBSMPL0020-16-67,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-67,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-67,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-67,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-67,host organism,Sex,Female,string,membership
+MBSMPL0020-16-67,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-67,sample from organism,Age at sample collection (months),2,number,range
+MBSMPL0020-16-67,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-67,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-67,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-67,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-68,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-68,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-68,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-68,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-68,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-68,host organism,Sex,Female,string,membership
+MBSMPL0020-16-68,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-68,sample from organism,Age at sample collection (months),0.6,number,range
+MBSMPL0020-16-68,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-68,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-68,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-68,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-69,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-69,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-69,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-69,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-69,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-69,host organism,Sex,Male,string,membership
+MBSMPL0020-16-69,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-69,sample from organism,Age at sample collection (months),1.8,number,range
+MBSMPL0020-16-69,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-69,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-69,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-69,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-7,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-7,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-7,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-7,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-7,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-7,host organism,Sex,Female,string,membership
+MBSMPL0020-16-7,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-7,sample from organism,Age at sample collection (months),2,number,range
+MBSMPL0020-16-7,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-7,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-7,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-7,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-70,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-70,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-70,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-70,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-70,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-70,host organism,Sex,Female,string,membership
+MBSMPL0020-16-70,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-70,sample from organism,Age at sample collection (months),2.2,number,range
+MBSMPL0020-16-70,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-70,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-70,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-70,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-71,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-71,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-71,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-71,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-71,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-71,host organism,Sex,Female,string,membership
+MBSMPL0020-16-71,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-71,sample from organism,Age at sample collection (months),0.3,number,range
+MBSMPL0020-16-71,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-71,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-71,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-71,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-72,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-72,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-72,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-72,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-72,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-72,host organism,Sex,Male,string,membership
+MBSMPL0020-16-72,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-72,sample from organism,Age at sample collection (months),0.2,number,range
+MBSMPL0020-16-72,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-72,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-72,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-72,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-73,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-73,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-73,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-73,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-73,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-73,host organism,Sex,Male,string,membership
+MBSMPL0020-16-73,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-73,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-73,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-73,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-73,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-73,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-74,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-74,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-74,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-74,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-74,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-74,host organism,Sex,Male,string,membership
+MBSMPL0020-16-74,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-74,sample from organism,Age at sample collection (months),2.9,number,range
+MBSMPL0020-16-74,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-74,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-74,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-74,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-75,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-75,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-75,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-75,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-75,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-75,host organism,Sex,Male,string,membership
+MBSMPL0020-16-75,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-75,sample from organism,Age at sample collection (months),2.2,number,range
+MBSMPL0020-16-75,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-75,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-75,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-75,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-76,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-76,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-76,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-76,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-76,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-76,host organism,Sex,Male,string,membership
+MBSMPL0020-16-76,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-76,sample from organism,Age at sample collection (months),2.9,number,range
+MBSMPL0020-16-76,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-76,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-76,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-76,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-77,host organism,"City, village, or region",Western Uganda,string,membership
+MBSMPL0020-16-77,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-77,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-77,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-77,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-77,host organism,Sex,Male,string,membership
+MBSMPL0020-16-77,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-77,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-77,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-77,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-77,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-77,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-78,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-78,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-78,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-78,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-78,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-78,host organism,Sex,Female,string,membership
+MBSMPL0020-16-78,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-78,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-78,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-78,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-78,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-78,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-79,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-79,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-79,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-79,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-79,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-79,host organism,Sex,Female,string,membership
+MBSMPL0020-16-79,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-79,sample from organism,Age at sample collection (months),1.1,number,range
+MBSMPL0020-16-79,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-79,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-79,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-79,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-8,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-8,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-8,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-8,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-8,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-8,host organism,Sex,Male,string,membership
+MBSMPL0020-16-8,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-8,sample from organism,Age at sample collection (months),1.8,number,range
+MBSMPL0020-16-8,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-8,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-8,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-8,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-80,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-80,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-80,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-80,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-80,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-80,host organism,Sex,Female,string,membership
+MBSMPL0020-16-80,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-80,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-80,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-80,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-80,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-80,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-82,host organism,"City, village, or region",Northern Uganda,string,membership
+MBSMPL0020-16-82,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-82,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-82,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-82,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-82,host organism,Sex,Male,string,membership
+MBSMPL0020-16-82,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-82,sample from organism,Age at sample collection (months),2.6,number,range
+MBSMPL0020-16-82,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-82,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-82,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-82,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-83,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-83,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-83,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-83,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-83,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-83,host organism,Sex,Male,string,membership
+MBSMPL0020-16-83,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-83,sample from organism,Age at sample collection (months),0.9,number,range
+MBSMPL0020-16-83,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-83,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-83,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-83,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-84,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-84,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-84,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-84,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-84,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-84,host organism,Sex,Male,string,membership
+MBSMPL0020-16-84,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-84,sample from organism,Age at sample collection (months),1,number,range
+MBSMPL0020-16-84,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-84,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-84,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-84,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-85,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-85,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-85,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-85,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-85,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-85,host organism,Sex,Female,string,membership
+MBSMPL0020-16-85,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-85,sample from organism,Age at sample collection (months),2.6,number,range
+MBSMPL0020-16-85,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-85,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-85,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-85,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-86,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-86,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-86,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-86,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-86,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-86,host organism,Sex,Male,string,membership
+MBSMPL0020-16-86,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-86,sample from organism,Age at sample collection (months),2.1,number,range
+MBSMPL0020-16-86,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-86,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-86,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-86,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-87,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-87,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-87,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-87,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-87,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-87,host organism,Sex,Female,string,membership
+MBSMPL0020-16-87,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-87,sample from organism,Age at sample collection (months),2.6,number,range
+MBSMPL0020-16-87,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-87,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-87,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-87,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-88,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-88,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-88,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-88,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-88,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-88,host organism,Sex,Female,string,membership
+MBSMPL0020-16-88,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-88,sample from organism,Age at sample collection (months),1.2,number,range
+MBSMPL0020-16-88,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-88,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-88,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-88,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-89,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-89,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-89,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-89,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-89,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-89,host organism,Sex,Female,string,membership
+MBSMPL0020-16-89,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-89,sample from organism,Age at sample collection (months),2.1,number,range
+MBSMPL0020-16-89,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-89,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-89,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-89,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-9,host organism,"City, village, or region",Central Uganda,string,membership
+MBSMPL0020-16-9,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-9,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-9,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-9,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-9,host organism,Sex,Female,string,membership
+MBSMPL0020-16-9,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-9,sample from organism,Age at sample collection (months),2.4,number,range
+MBSMPL0020-16-9,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-9,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-9,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-9,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-90,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-90,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-90,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-90,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-90,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-90,host organism,Sex,Male,string,membership
+MBSMPL0020-16-90,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-90,sample from organism,Age at sample collection (months),1.5,number,range
+MBSMPL0020-16-90,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-90,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-90,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-90,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-91,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-91,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-91,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-91,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-91,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-91,host organism,Sex,Female,string,membership
+MBSMPL0020-16-91,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-91,sample from organism,Age at sample collection (months),0.4,number,range
+MBSMPL0020-16-91,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-91,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-91,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-91,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-94,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-94,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-94,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-94,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-94,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-94,host organism,Sex,Male,string,membership
+MBSMPL0020-16-94,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-94,sample from organism,Age at sample collection (months),1.9,number,range
+MBSMPL0020-16-94,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-94,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-94,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-94,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-95,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-95,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-95,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-95,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-95,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-95,host organism,Sex,Male,string,membership
+MBSMPL0020-16-95,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-95,sample from organism,Age at sample collection (months),2.1,number,range
+MBSMPL0020-16-95,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-95,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-95,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-95,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-97,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-97,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-97,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-97,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-97,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-97,host organism,Sex,Male,string,membership
+MBSMPL0020-16-97,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-97,sample from organism,Age at sample collection (months),1.7,number,range
+MBSMPL0020-16-97,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-97,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-97,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-97,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-98,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-98,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-98,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-98,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-98,host organism,Hydrocephalus,Nonpostinfectious hydrocephalus (NPIH),string,membership
+MBSMPL0020-16-98,host organism,Sex,Female,string,membership
+MBSMPL0020-16-98,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-98,sample from organism,Age at sample collection (months),2.2,number,range
+MBSMPL0020-16-98,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-98,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-98,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-98,sample from organism,Sample type,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-99,host organism,"City, village, or region",Eastern Uganda,string,membership
+MBSMPL0020-16-99,host organism,Country,Uganda,string,membership
+MBSMPL0020-16-99,host organism,Host body habitat,Spinal cord,string,membership
+MBSMPL0020-16-99,host organism,Host common name,Human,string,membership
+MBSMPL0020-16-99,host organism,Hydrocephalus,Postinfectious hydrocephalus (PIH),string,membership
+MBSMPL0020-16-99,host organism,Sex,Male,string,membership
+MBSMPL0020-16-99,host organism,env_feature,Human,string,membership
+MBSMPL0020-16-99,sample from organism,Age at sample collection (months),1.5,number,range
+MBSMPL0020-16-99,sample from organism,Host body product,Cerebrospinal fluid,string,membership
+MBSMPL0020-16-99,sample from organism,Host body site,Spinal cord,string,membership
+MBSMPL0020-16-99,sample from organism,Region of 16S rRNA sequenced,V1-V2,string,membership
+MBSMPL0020-16-99,sample from organism,Sample type,Cerebrospinal fluid,string,membership
