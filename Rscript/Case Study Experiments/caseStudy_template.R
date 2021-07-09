@@ -12,17 +12,26 @@ library(selEnergyPermR)
 
 
 ## Start Local Cluster
-clus <- parallel::makeCluster(10)
-doParallel::registerDoParallel(clus)
+# clus <- parallel::makeCluster(10)
+# doParallel::registerDoParallel(clus)
 
 
 ######===========================================================-
 ### Read External Arguments
 ######===========================================================-
-args = c(1,8)
+
+args = c(1,8) ## for local test
 args = commandArgs(trailingOnly = TRUE)
 seed_ = as.numeric(args[1]) # random seed selection
 ds = as.numeric(args[2])
+
+## example:: to run all experiments on linux cluster  input is :
+##  for s in {1..10}; ## 10 chunks of 100 permutation for 1000 total permutation (parallel implementation across 10 machines)
+##    do for d in {1..14};
+##      do sbatch -p general --mem=3g -n 1 --time=02:00:00 --wrap="Rscript --no-save caseStudy_template.R $s $d ";
+##  done;done
+## note --time=XX:XX:XX depends on CPU processor speed
+
 ######===========================================================-
 
 
@@ -34,7 +43,7 @@ nfolds = 1
 switch(ds,
 
        {
-         dat = read_csv(file = "Data/deliveryMode_month1.csv");
+         dat = read_csv(file = "Output/deliveryMode_month1.csv");
          fname = "birthDelivery_month1";
          ## get sample names
          snames = dat$sample_name;
@@ -53,7 +62,7 @@ switch(ds,
        }, #1 - birth study
 
        {
-         dat = read_csv(file = "Data/deliveryMode_month2.csv");
+         dat = read_csv(file = "Output/deliveryMode_month2.csv");
          fname = "birthDelivery_month2";
          ## get sample names
          snames = dat$sample_name;
@@ -71,7 +80,7 @@ switch(ds,
        }, #2
 
        {
-         dat = read_csv(file = "Data/deliveryMode_month3.csv");
+         dat = read_csv(file = "Output/deliveryMode_month3.csv");
          fname = "birthDelivery_month3";
          ## get sample names
          snames = dat$sample_name;
@@ -89,7 +98,7 @@ switch(ds,
        }, #3
 
        {
-         dat = read_csv(file = "Data/deliveryMode_month4.csv");
+         dat = read_csv(file = "Output/deliveryMode_month4.csv");
          fname = "birthDelivery_month4";
          ## get sample names
          snames = dat$sample_name;
@@ -107,7 +116,7 @@ switch(ds,
        }, #4
 
        {
-         dat = read_csv(file = "Data/deliveryMode_month5.csv");
+         dat = read_csv(file = "Output/deliveryMode_month5.csv");
          fname = "birthDelivery_month5";
          ## get sample names
          snames = dat$sample_name;
@@ -125,7 +134,7 @@ switch(ds,
        }, #5
 
        {
-         dat = read_csv(file = "Data/deliveryMode_month6.csv");
+         dat = read_csv(file = "Output/deliveryMode_month6.csv");
          fname = "birthDelivery_month6";
          ## get sample names
          snames = dat$sample_name;
@@ -144,62 +153,62 @@ switch(ds,
 
        {
          ## ds  = 7
-         dat = read_csv(file = "Data/Uguanda_PIH.csv");
+         dat = read_csv(file = "Output/Uguanda_PIH.csv");
          fname = "pih";
        }, #7
 
        {
-         dat = read_csv(file = "Data/diabimmune_f6.csv");
+         dat = read_csv(file = "Output/diabimmune_f6.csv");
          fname = "diabimmune_f6";
-         md = read_csv(file = "Data/diabimmune_f6_metadata.csv");
+         md = read_csv(file = "Output/diabimmune_f6_metadata.csv");
          blocks = md$permutation_blocks
          nfolds =1
         }, #8 - diabimmune f6
 
        {
-         dat = read_csv(file = "Data/diabimmune_6-12.csv");
+         dat = read_csv(file = "Output/diabimmune_6-12.csv");
          fname = "diabimmune_6-12";
-         md = read_csv(file = "Data/diabimmune_6-12_metadata.csv");
+         md = read_csv(file = "Output/diabimmune_6-12_metadata.csv");
          blocks = md$permutation_blocks
          nfolds = 1
        }, #9 - diabimmune 6-12
 
        {
-         dat = read_csv(file = "Data/diabimmune_12-18.csv");
+         dat = read_csv(file = "Output/diabimmune_12-18.csv");
          fname = "diabimmune_12-18";
-         md = read_csv(file = "Data/diabimmune_12-18_metadata.csv");
+         md = read_csv(file = "Output/diabimmune_12-18_metadata.csv");
          blocks = md$permutation_blocks
          nfolds = 1
        }, #10 - diabimmune 12-18
 
        {
-         md = read_csv(file = "Data/diabimmune_18-24_metadata.csv");
+         md = read_csv(file = "Output/diabimmune_18-24_metadata.csv");
          fname = "diabimmune_18-24";
-         dat = read_csv(file = "Data/diabimmune_18-24.csv");
+         dat = read_csv(file = "Output/diabimmune_18-24.csv");
          blocks = md$permutation_blocks
          nfolds = 1
        }, ##11 - diabimmune 18-24
 
        {
-         dat = read_csv(file = "Data/fecalcalprotecin_UC.csv");
+         dat = read_csv(file = "Output/fecalcalprotecin_UC.csv");
          fname = "fecalCalProtectin_UC";
-         md = read_csv(file = "Data/fecalcalprotecin_UC_metadata.csv");
+         md = read_csv(file = "Output/fecalcalprotecin_UC_metadata.csv");
          blocks = md$visit_num ;
          om = "combinedF"
        }, #12 - fecal calprotecin UC
 
        {
-         dat = read_csv(file = "Data/fecalcalprotecin_CD.csv");
+         dat = read_csv(file = "Output/fecalcalprotecin_CD.csv");
          fname = "fecalCalProtectin_CD";
-         md = read_csv(file = "Data/fecalcalprotecin_CD_metadata.csv");
+         md = read_csv(file = "Output/fecalcalprotecin_CD_metadata.csv");
          blocks = md$visit_num ;
          om = "combinedF"
        }, #13 - fecal calprotecin CD
 
        {
-         dat = read_csv(file = "Data/fecalcalprotecin_ALL.csv");
+         dat = read_csv(file = "Output/fecalcalprotecin_ALL.csv");
          fname = "fecalCalProtectin_ALL";
-         md = read_csv(file = "Data/fecalcalprotecin_ALL_metadata.csv");
+         md = read_csv(file = "Output/fecalcalprotecin_ALL_metadata.csv");
          blocks = md$perm_blocks;
          om = "combinedF"
        } #14 - fecal calprotecin All
@@ -287,7 +296,6 @@ testStat.df =  data.frame(Type = "empirical",
 
 ## Null Results ####
 nullPerf = data.frame()
-nreps = 10
 nreps = permRep
 null.testStat = data.frame()
 system.time({
