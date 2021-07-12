@@ -1,4 +1,4 @@
-[![DOI](https://data.caltech.edu/badge/384226170.svg)](https://data.caltech.edu/badge/latestdoi/384226170)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5084880.svg)](https://doi.org/10.5281/zenodo.5084880)
 
 # SelectionEnergyPerm_Project
 
